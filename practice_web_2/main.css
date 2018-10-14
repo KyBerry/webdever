@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+div.jumbotron {
+    background: url("https://images.pexels.com/photos/670720/pexels-photo-670720.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-position: 50% 50%;
+    background-size: cover;
+}
+div.jumbotron .container {
+    font-family: 'Roboto', sans-serif;
+    height: 400px;
+    color: white;
+    padding-top: 100px;
+}
