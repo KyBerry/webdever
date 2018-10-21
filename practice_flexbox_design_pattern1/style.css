@@ -1,0 +1,21 @@
+header {
+    background: #000515;
+    color: white;
+}
+section {
+    background: #252C3F;
+    color: white;
+    text-align: left;
+}
+aside.a1 {
+    background: #EA8859;
+    color: white;
+}
+aside.a2 {
+    background: #F0EBDF;
+    color: white;
+}
+footer {
+    background: #6D909C;
+    color: white;
+}
